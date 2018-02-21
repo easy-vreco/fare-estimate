@@ -1,0 +1,26 @@
+{
+  "name": "easy-vreco",
+  "version": "1.0.0",
+  "description": "proyecto de rutas.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  },
+  "scripts": {
+    "build": "babel --presets env src -d public/js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easy-vreco/fare-estimate.git"
+  },
+  "author": "Araceli Guturra, Pamela De La Cruz, Lesly Nomberto",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://github.com/easy-vreco/fare-estimate#readme",
+  "keywords": []
+}

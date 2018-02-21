@@ -9,7 +9,9 @@
 [![forthebadge](http://forthebadge.com/images/badges/for-you.svg)](http://forthebadge.com)
 
 ## Objetivo
-  Implementar una búsqueda de tu localización haciendo uso de la API de Geolocalización y API Google Maps, así mismo poder trazar una ruta entre dos distancias.
+  Uber ya cuenta con un estimador de tarifas analiza toda la funcionalidad y mejóralo tanto a nivel de experiencia de usuario, interfaz y funcionalidad.
+
+Para aprender algo nuevo, ¿qué tal si hacemos deployment de este producto a Firebase? Ya has usado Github Pages, probablemente habrás escuchado sobre Heroku, sin embargo, Firebase también tiene un servicio de hosting, así que aprovechemos en experimentar con él.
   
 ## **Herramientas Tecnológicas**
 * HTML 5
@@ -50,7 +52,7 @@
   │       ├── jquery
   │       │   ├── jquery-3.2.1.min.js
   │       │
-  │       ├── materialize││framework de tu elección
+  │       ├── Bootstrap││framework de tu elección
   │
   ├── src/
   │   ├── app.js(ES6)
@@ -84,36 +86,4 @@
 
 ## **Planificación**
 
-  1. Día 07:
-
-- Flujo de la mañana:
-  * Se planteó la organización de colaboración en un mismo repositorio.
-  * Se repartió puntos de funcionalidad a todas las integrantes.
-  * Se agregaron issues con sus respectivos milestones.
-
-- Flujo de la tarde: 
-  * Realización de las funcionalidades: autocompletado de inputs, funcionalidad de botones Encuéntrame y Trazar ruta.
-  * Implementación de los estilos para la página.
-  * Implementación de Babel.
-  * Actualización del archivo README.md.
-
-- Encargadas: Araceli, Pamela y Lesly.
-- Resultado: Se completó con la página.
-
-## **Anexos**
-  ![issues](public/assets/docs/issues.png "issues")
-
-  ![issues-terminados](public/assets/docs/issues-terminados.png "issues-terminados")
-
-### **Scketch**
-
-  ![scketch-inicial](public/assets/docs/scketch-inicial.jpg "scketch-inicial")
-
-## **Prototipado**
-
-  ![prototipado](public/assets/docs/prototipado.png "prototipado")
-
-## **Resultado Final**
-
-  ![resultado-final](public/assets/docs/resultado-final.png "resultado-final")
-# fare-estimate
+ 
